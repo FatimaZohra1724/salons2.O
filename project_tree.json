@@ -1,0 +1,28 @@
+{
+  "root": "C:\\Users\\Administrator\\Desktop\\New Salon Website",
+  "tree": [
+    "C:\\Users\\Administrator\\Desktop\\New Salon Website/",
+    "\u251c\u2500\u2500 src/",
+    "\u2502   \u251c\u2500\u2500 components/",
+    "\u2502   \u2502   \u251c\u2500\u2500 About.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Booking.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Contact.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Footer.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Gallery.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Hero.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Interior.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Locations.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Navbar.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Pricing.jsx",
+    "\u2502   \u2502   \u251c\u2500\u2500 Services.jsx",
+    "\u2502   \u2502   \u2514\u2500\u2500 Testimonials.jsx",
+    "\u2502   \u251c\u2500\u2500 hooks/",
+    "\u2502   \u2502   \u2514\u2500\u2500 useTheme.js",
+    "\u2502   \u251c\u2500\u2500 styles/",
+    "\u2502   \u2502   \u2514\u2500\u2500 global.css",
+    "\u2502   \u251c\u2500\u2500 App.jsx",
+    "\u2502   \u2514\u2500\u2500 main.jsx",
+    "\u251c\u2500\u2500 index.html",
+    "\u2514\u2500\u2500 project_tree.py"
+  ]
+}

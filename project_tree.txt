@@ -1,0 +1,23 @@
+C:\Users\Administrator\Desktop\New Salon Website/
+├── src/
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Booking.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Gallery.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Interior.jsx
+│   │   ├── Locations.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Pricing.jsx
+│   │   ├── Services.jsx
+│   │   └── Testimonials.jsx
+│   ├── hooks/
+│   │   └── useTheme.js
+│   ├── styles/
+│   │   └── global.css
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+└── project_tree.py

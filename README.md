@@ -1,4 +1,16 @@
-# My Salon Website
+# Salon Website (Frontend)
 
-This is my live website project built using HTML/CSS/JS.
+A modern and responsive salon website built using React.
 
+## 🌐 Live Demo
+[https://salons2-45omww7vi-fatima-zohras-projects-0cad0476.vercel.app/#services]
+
+## 🛠 Tech Stack
+- React
+- CSS
+- Vercel
+
+## 📌 Features
+- Responsive design
+- Service listing
+- Booking UI

@@ -4,7 +4,7 @@ return (
 <h2>Location & Hours</h2>
 <p>Indiranagar, Bengaluru</p>
 <p>Mon–Sun: 10am – 9pm</p>
-<a href="tel:+919999999999">Call Now</a>
+<p>Contact: +91 98765 43210</p>
 </section>
 );
 }

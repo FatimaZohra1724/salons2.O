@@ -1,5 +1,5 @@
 import Haircutting from '../assets/Mediafiles/Haircutting.jpg';
-import Color from '../assets/Mediafiles/color.jpg';
+import Color from '../assets/Mediafiles/Color.jpg';
 import Manicure from '../assets/Mediafiles/Manicure.jpg';
 import FacialTreatment from '../assets/Mediafiles/FacialTreatment.jpg';
 

@@ -1,4 +1,5 @@
 export default function Locations() {
+
   return (
     <>
       <section id="locations" className="section alt">

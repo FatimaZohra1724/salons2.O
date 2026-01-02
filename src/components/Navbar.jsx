@@ -22,7 +22,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="nav-inner">
-        <div className="logo">Zohra Salon 2.O</div>
+        <div className="logo">Mirror's Salon </div>
         
         {/* DESKTOP MENU */}
         <nav className="nav-menu">
@@ -35,9 +35,9 @@ export default function Navbar() {
 
         {/* THEME TOGGLE + MOBILE BURGER */}
         <div className="nav-actions">
-          <button className="theme-toggle" onClick={toggle}>
+          {/* <button className="theme-toggle" onClick={toggle}>
             {theme === 'light' ? '🌙' : '☀️'}
-          </button>
+          </button> */}
           
           {/* ✅ FIXED BURGER - THIS MAKES IT WORK */}
           <button 

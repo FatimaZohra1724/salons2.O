@@ -2,6 +2,8 @@ import SalonGallery from '../assets/Mediafiles/SalonGallery.jpg';  // RECEPTION
 import NailArtist from '../assets/Mediafiles/NailArtist.jpg';     // NAIL BAR
 import Hairbar from '../assets/Mediafiles/Hairbar.jpg';           // HAIR LOUNGE
 import FacialTreatment from '../assets/Mediafiles/FacialTreatment.jpg'; // TREATMENT
+import gallery7 from '../assets/Mediafiles/gallery7.jpg';
+import Professionals from '../assets/Mediafiles/Professionals.jpg';
 
 export default function Interior() {
   return (
@@ -52,6 +54,26 @@ export default function Interior() {
           <div className="interior-overlay">
             <h3>Treatment Rooms</h3>
             <p>Spa facial therapy</p>
+          </div>
+        </div>
+        {/* MAKEUP STUDIO */}
+        <div className="interior-card">
+          <div className="interior-image">
+            <img src={gallery7} alt="Makeup Studio" loading="lazy" />
+          </div>
+          <div className="interior-overlay">
+            <h3>Makeup Studio</h3>
+            <p>For Bride & Party</p>
+          </div>
+        </div>
+        {/* Professionals */}
+        <div className="interior-card">
+          <div className="interior-image">
+            <img src={Professionals} alt="Team" loading="lazy" />
+          </div>
+          <div className="interior-overlay">
+            <h3>Professionals</h3>
+            <p>Our skilled team</p>
           </div>
         </div>
       </div>

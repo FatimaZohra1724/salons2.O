@@ -2,7 +2,7 @@ export default function About() {
 return (
 <section id="about" className="section">
 <h2>Our Philosophy</h2>
-<p>
+<p style={{ color: 'DarkGrey' }}>
 Zohra Salon is a modern beauty sanctuary inspired by European craftsmanship
 and Dubai’s luxury lifestyle. Every service begins with listening.
 </p>

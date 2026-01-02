@@ -2,7 +2,8 @@ import Haircutting from '../assets/Mediafiles/Haircutting.jpg';
 import Color from '../assets/Mediafiles/color.jpg';
 import Manicure from '../assets/Mediafiles/Manicure.jpg';
 import FacialTreatment from '../assets/Mediafiles/FacialTreatment.jpg';
-
+import Massage from '../assets/Mediafiles/Massage.jpg';
+import Waxing from '../assets/Mediafiles/Waxing.jpg';
 const services = [
   { 
     name: 'Signature Haircut', 
@@ -31,7 +32,21 @@ const services = [
     time: '75 min',
     image: FacialTreatment,
     description: 'Deep cleansing with LED therapy & hydrating serum'
-  }
+  },
+  { 
+  name: 'Full Body Massage', 
+  price: '₹3,000+', 
+  time: '90 min',
+  image: Massage,
+  description: 'Deeply relaxing full body massage to relieve stress, improve circulation, and restore balance'
+},
+{ 
+  name: 'Luxury Waxing', 
+  price: '₹1,500+', 
+  time: '45 min',
+  image: Waxing,
+  description: 'Gentle full-area waxing using premium products for smooth, long-lasting results'
+}
 ];
 
 export default function Services() {

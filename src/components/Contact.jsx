@@ -6,11 +6,6 @@ return (
 <p>Email: hello@zohrasalon.com</p>
 <p>Instagram: @zohrasalon</p>
 </section>
-<style>{`
-  #contact p {
-    color: black;
-    }`}
-</style>
 </>
 );
 }

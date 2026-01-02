@@ -9,11 +9,7 @@ export default function Locations() {
         <p>Contact: +91 98765 43210</p>
       </section>
 
-      <style>{`
-        #locations p {
-          color: black;
-        }
-      `}</style>
+     
     </>
   );
 }

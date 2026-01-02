@@ -1,8 +1,6 @@
-import useTheme from '../hooks/useTheme';
 import { useState } from 'react';
 
 export default function Navbar() {
-  const { theme, toggle } = useTheme();
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const toggleMobileMenu = () => {
@@ -22,7 +20,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="nav-inner">
-        <div className="logo">Mirror's Salon </div>
+        <div className="logo">Mirrors Salon </div>
         
         {/* DESKTOP MENU */}
         <nav className="nav-menu">
@@ -33,13 +31,8 @@ export default function Navbar() {
           ))}
         </nav>
 
-        {/* THEME TOGGLE + MOBILE BURGER */}
+        {/* MOBILE BURGER */}
         <div className="nav-actions">
-          {/* <button className="theme-toggle" onClick={toggle}>
-            {theme === 'light' ? '🌙' : '☀️'}
-          </button> */}
-          
-          {/* ✅ FIXED BURGER - THIS MAKES IT WORK */}
           <button 
             className={`burger-btn ${isMobileMenuOpen ? 'active' : ''}`} 
             onClick={toggleMobileMenu}

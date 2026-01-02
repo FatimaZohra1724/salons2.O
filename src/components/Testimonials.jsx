@@ -1,5 +1,6 @@
 export default function Testimonials() {
 return (
+            <>
 <section id="testimonials" className="section">
 <h2>Testimonials</h2>
 <div className="grid">
@@ -8,5 +9,11 @@ return (
 <div className="card">“Attention to detail is unmatched.” – Sana</div>
 </div>
 </section>
-);
+<style>
+            {`
+                        #testimonials .grid{
+                                    color:black;
+            `}
+</style>
+</>);
 }

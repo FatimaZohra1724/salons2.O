@@ -1,5 +1,6 @@
 export default function Pricing() {
 return (
+            <>
 <section id="pricing" className="section alt">
 <h2>Pricing</h2>
 <div className="grid">
@@ -8,5 +9,11 @@ return (
 <div className="card">Blow Dry – ₹1,200+</div>
 </div>
 </section>
-);
+<style>
+            {`
+                        #pricing .grid{
+                                    color:black;
+            `}
+</style>
+</>);
 }

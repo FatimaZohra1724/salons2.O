@@ -1,9 +1,9 @@
 # Salon Website (Frontend)
 
 A modern and responsive salon website built using React.
+#Live demo
+https://salons2-o.vercel.app/
 
-## 🌐 Live Demo
-https://salons2-6n9fg64fg-fatima-zohras-projects-0cad0476.vercel.app/
 
 ## 🛠 Tech Stack
 - React
